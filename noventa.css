@@ -1,0 +1,77 @@
+
+body{
+    background-image: url("backgroundimagesky.jpg"), url("paper.gif");
+}
+/*Blosques de contenido*/
+#bloques {
+    display: flex;
+    margin-top: 6%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+#bloqList1 {
+    padding-top: 25px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 55px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    text-align: justify;
+    background-color: violet;
+    border: thick double;
+}
+#bloqList2 {
+    padding-top: 25px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 45px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    text-align: justify;
+    background-color: violet;
+    border: thick double;
+}
+#bloqList3 {
+    padding-top: 25px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 50px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    text-align: justify;
+    background-color: violet;
+    border: thick double;
+}
+
+/*Texto: titulos y parrafo*/
+h2 {
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+header {
+    background-color: violet;
+    margin-top: 1%;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 1%;
+    border: thick double;
+    font-size: 17px;
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+/*Listas*/
+
+ul li {
+    list-style: square;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
